@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently enrolled on **a java bootcamp to further my programming knowledge**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me **thomaslimbu102@gmail.com**
 
